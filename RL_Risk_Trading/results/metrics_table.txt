@@ -1,0 +1,5 @@
+FINAL BLIND TEST METRICS (2024 - 2026)
+----------------------------------------
+1. Buy & Hold Market  : Rs 104,615.20 (4.62%)
+2. Vanilla AI (Greedy): Rs 105,209.00 (5.21%) | Max Drawdown: 13.92%
+3. Risk-Aware AI      : Rs 105,209.00 (5.21%) | Max Drawdown: 13.92%

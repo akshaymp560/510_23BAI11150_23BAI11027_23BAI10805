@@ -1,0 +1,27 @@
+
+=========================================================
+📊 ADVANCED AI PERFORMANCE REPORT (Blind Test 2024-2026)
+=========================================================
+
+1. BUY & HOLD MARKET BASELINE
+--------------------------------
+Total Return      : 2.66%
+Annualized Return : 1.21%
+Sharpe Ratio      : -0.25
+Win Rate          : 52.01% (Days in profit)
+
+2. VANILLA PPO (Greedy AI)
+--------------------------------
+Total Return      : 5.21%
+Annualized Return : 2.36%
+Sharpe Ratio      : -0.16
+Win Rate          : 52.10% (Days in profit)
+
+3. RISK-AWARE PPO (Our AI)
+--------------------------------
+Total Return      : 5.21%
+Annualized Return : 2.36%
+Sharpe Ratio      : -0.16
+Win Rate          : 52.10% (Days in profit)
+
+=========================================================
